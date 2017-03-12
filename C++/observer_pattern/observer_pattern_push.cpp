@@ -1,4 +1,3 @@
-
 /*
 An Observer Pattern example using the push mechanism:
   A news agency (the subject) sends news to all subscribed
